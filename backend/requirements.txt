@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain
+transformers
+PyPDF2
+sentence-transformers
+ollama
+python-dotenv
